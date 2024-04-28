@@ -1,7 +1,9 @@
 # Finite State Machine Designer
 Work in Progress
 
-Contributers
+Created by:
 Mohammed Ahmed
+
+Additional Support from:
 Evan Featherson
-Alex Poltergier 
+Alex Turner
